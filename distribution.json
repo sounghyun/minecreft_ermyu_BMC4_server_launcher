@@ -433,17 +433,6 @@
           ]
         },
         {
-          "id": ".curseclient",
-          "name": ".curseclient",
-          "type": "File",
-          "artifact": {
-            "size": 36,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/.curseclient",
-            "MD5": "cbb6bcca6188c12b4993adc446e7bfcb",
-            "path": ".curseclient"
-          }
-        },
-        {
           "id": "aaa_particles-client.toml",
           "name": "aaa_particles-client.toml",
           "type": "File",
