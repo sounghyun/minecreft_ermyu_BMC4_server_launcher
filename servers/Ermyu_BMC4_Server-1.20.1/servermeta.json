@@ -2,8 +2,8 @@
   "$schema": "file:///C:/minecreft_batter_BMC4_Server/server_data/minecreft_BMC4_ermyu/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "ì—ë¥´ë®¤ ì‹¬ì‹¬ í¬ë˜í”„íŠ¸",
-    "description": "Fì»µ ì—ë¥´ë®¤ì˜ ì‹¬ì‹¬ ìš•êµ¬ë¥¼ ì¶©ì¡± ì‹œí‚¤ê¸° ìœ„í•œ ì„œë²„",
+    "name": "¿¡¸£¹Â ½É½É Å©·¡ÇÁÆ®",
+    "description": "FÄÅ ¿¡¸£¹ÂÀÇ ½É½É ¿å±¸¸¦ ÃæÁ· ½ÃÅ°±â À§ÇÑ ¼­¹ö",
     "icon": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/ermyu_data/icon/ermyu_icon.ico",
     "address": "mine-silaren.p-e.kr",
     "discord": {
@@ -12,7 +12,7 @@
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": true,
-    "autoconnect": false
+    "autoconnect": true
   },
   "forge": {
     "version": "47.4.0"
