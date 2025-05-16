@@ -2303,6 +2303,17 @@
           }
         },
         {
+          "id": "bmc4korupdater-client.toml",
+          "name": "bmc4korupdater-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/bmc4korupdater-client.toml",
+            "MD5": "153960c9133e7feb2135ee95009567bf",
+            "path": "config/bmc4korupdater-client.toml"
+          }
+        },
+        {
           "id": "boatiview-client.toml",
           "name": "boatiview-client.toml",
           "type": "File",
@@ -3244,7 +3255,7 @@
           "artifact": {
             "size": 406,
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/everycomp-hazardous.properties",
-            "MD5": "b994177fd95c2df1cc68c2cb52199485",
+            "MD5": "ff3bab8f668d3da4eeacdea46d79f712",
             "path": "config/everycomp-hazardous.properties"
           }
         },
@@ -3266,7 +3277,7 @@
           "artifact": {
             "size": 290,
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/fabric/indigo-renderer.properties",
-            "MD5": "2f2fac3eb95d998cbfb2e768899bbfe5",
+            "MD5": "0df68e201151cb68dad7ab246bd0d2ee",
             "path": "config/fabric/indigo-renderer.properties"
           }
         },
@@ -5136,7 +5147,7 @@
           "artifact": {
             "size": 253,
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/oculus.properties",
-            "MD5": "03eb49fced4c0b929faa011abf7cb5d5",
+            "MD5": "be9b36ee66ad7b00c87bfa4b9b07d9c7",
             "path": "config/oculus.properties"
           }
         },
@@ -5169,7 +5180,7 @@
           "artifact": {
             "size": 455,
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/packetfixer.properties",
-            "MD5": "07333c847b158be39896cf8467f0dbfb",
+            "MD5": "0ca3490b0c6ce21f505b6da37515610b",
             "path": "config/packetfixer.properties"
           }
         },
@@ -5251,6 +5262,17 @@
           }
         },
         {
+          "id": "BoP x FD Bark Cutting Compat.zip",
+          "name": "BoP x FD Bark Cutting Compat.zip",
+          "type": "File",
+          "artifact": {
+            "size": 8520,
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/paxi/datapacks/BoP%20x%20FD%20Bark%20Cutting%20Compat.zip",
+            "MD5": "84fcc868d12e81e4781f5fe3e17494fe",
+            "path": "config/paxi/datapacks/BoP x FD Bark Cutting Compat.zip"
+          }
+        },
+        {
           "id": "BoP_x_FD_Bark_Cutting_Compat.zip",
           "name": "BoP_x_FD_Bark_Cutting_Compat.zip",
           "type": "File",
@@ -5314,6 +5336,17 @@
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/paxi/datapacks/LessStructures-SpacingTweaks-1.20.1-2.1.56.zip",
             "MD5": "e4ec36183e8241fc628a007a4f05daf3",
             "path": "config/paxi/datapacks/LessStructures-SpacingTweaks-1.20.1-2.1.56.zip"
+          }
+        },
+        {
+          "id": "Quark x FD Bark Cutting Compat.zip",
+          "name": "Quark x FD Bark Cutting Compat.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3133,
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/paxi/datapacks/Quark%20x%20FD%20Bark%20Cutting%20Compat.zip",
+            "MD5": "81f23a3000252bb5bc1fe4301d8f43ff",
+            "path": "config/paxi/datapacks/Quark x FD Bark Cutting Compat.zip"
           }
         },
         {
@@ -5904,9 +5937,9 @@
           "name": "allowed_sounds.properties",
           "type": "File",
           "artifact": {
-            "size": 152168,
+            "size": 152247,
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/sound_physics_remastered/allowed_sounds.properties",
-            "MD5": "49bf124c8f15277ece62eb9aaff5bd96",
+            "MD5": "b42be22a545c3ebd61e7fc96e37bebf7",
             "path": "config/sound_physics_remastered/allowed_sounds.properties"
           }
         },
@@ -6632,7 +6665,7 @@
           "artifact": {
             "size": 427,
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/xenon-fingerprint.json",
-            "MD5": "94d4e6421a36d8604426c0cce173841c",
+            "MD5": "104ffaa610f18d791a6c414532d5fdfa",
             "path": "config/xenon-fingerprint.json"
           }
         },
@@ -6652,9 +6685,9 @@
           "name": "xenon-options.json",
           "type": "File",
           "artifact": {
-            "size": 888,
+            "size": 889,
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/xenon-options.json",
-            "MD5": "9d33274962ab8907e2c029f6f84e115a",
+            "MD5": "7aa637d95f06f6bb7d767933c70de003",
             "path": "config/xenon-options.json"
           }
         },
@@ -52412,9 +52445,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 12885,
+            "size": 12760,
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/options.txt",
-            "MD5": "a160117f9b6caa7cd4087a34f9feadbc",
+            "MD5": "33dd449fafbc72c1c98b865bf878ceb1",
             "path": "options.txt"
           }
         },
@@ -52823,6 +52856,17 @@
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip",
             "MD5": "c838cd68287b300dc06635b34dca16af",
             "path": "resourcepacks/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 15842,
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/servers.dat",
+            "MD5": "3960864c7a933b2333f8f2c3036ebb5a",
+            "path": "servers.dat"
           }
         },
         {
