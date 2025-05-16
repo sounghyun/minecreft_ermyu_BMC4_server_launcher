@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "Ermyu_BMC4_Server-1.20.1",
-      "name": "에르뮤 심심 크래프트",
-      "description": "F컵 에르뮤의 심심 욕구를 충족 시키기 위한 서버",
+      "name": "������ �ɽ� ũ����Ʈ",
+      "description": "F�� �������� �ɽ� �屸�� ���� ��Ű�� ���� ����",
       "icon": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/ermyu_data/icon/ermyu_icon.ico",
       "version": "1.0.0",
       "address": "mine-silaren.p-e.kr",
@@ -5262,14 +5262,14 @@
           }
         },
         {
-          "id": "BoP x FD Bark Cutting Compat.zip",
-          "name": "BoP x FD Bark Cutting Compat.zip",
+          "id": "BoP_x_FD_Bark_Cutting_Compat.zip",
+          "name": "BoP_x_FD_Bark_Cutting_Compat.zip",
           "type": "File",
           "artifact": {
             "size": 8520,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/paxi/datapacks/BoP%20x%20FD%20Bark%20Cutting%20Compat.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/paxi/datapacks/BoP_x_FD_Bark_Cutting_Compat.zip",
             "MD5": "84fcc868d12e81e4781f5fe3e17494fe",
-            "path": "config/paxi/datapacks/BoP x FD Bark Cutting Compat.zip"
+            "path": "config/paxi/datapacks/BoP_x_FD_Bark_Cutting_Compat.zip"
           }
         },
         {
@@ -5328,14 +5328,14 @@
           }
         },
         {
-          "id": "Quark x FD Bark Cutting Compat.zip",
-          "name": "Quark x FD Bark Cutting Compat.zip",
+          "id": "Quark_x_FD_Bark_Cutting_Compat.zip",
+          "name": "Quark_x_FD_Bark_Cutting_Compat.zip",
           "type": "File",
           "artifact": {
             "size": 3133,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/paxi/datapacks/Quark%20x%20FD%20Bark%20Cutting%20Compat.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/config/paxi/datapacks/Quark_x_FD_Bark_Cutting_Compat.zip",
             "MD5": "81f23a3000252bb5bc1fe4301d8f43ff",
-            "path": "config/paxi/datapacks/Quark x FD Bark Cutting Compat.zip"
+            "path": "config/paxi/datapacks/Quark_x_FD_Bark_Cutting_Compat.zip"
           }
         },
         {
@@ -11576,14 +11576,14 @@
           }
         },
         {
-          "id": "BoP x FD Bark Cutting Compat.zip",
-          "name": "BoP x FD Bark Cutting Compat.zip",
+          "id": "BoP_x_FD_Bark_Cutting_Compat.zip",
+          "name": "BoP_x_FD_Bark_Cutting_Compat.zip",
           "type": "File",
           "artifact": {
             "size": 8520,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/defaultconfigs/paxi/datapacks/BoP%20x%20FD%20Bark%20Cutting%20Compat.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/defaultconfigs/paxi/datapacks/BoP_x_FD_Bark_Cutting_Compat.zip",
             "MD5": "84fcc868d12e81e4781f5fe3e17494fe",
-            "path": "defaultconfigs/paxi/datapacks/BoP x FD Bark Cutting Compat.zip"
+            "path": "defaultconfigs/paxi/datapacks/BoP_x_FD_Bark_Cutting_Compat.zip"
           }
         },
         {
@@ -11642,14 +11642,14 @@
           }
         },
         {
-          "id": "Quark x FD Bark Cutting Compat.zip",
-          "name": "Quark x FD Bark Cutting Compat.zip",
+          "id": "Quark_x_FD_Bark_Cutting_Compat.zip",
+          "name": "Quark_x_FD_Bark_Cutting_Compat.zip",
           "type": "File",
           "artifact": {
             "size": 3133,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/defaultconfigs/paxi/datapacks/Quark%20x%20FD%20Bark%20Cutting%20Compat.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/defaultconfigs/paxi/datapacks/Quark_x_FD_Bark_Cutting_Compat.zip",
             "MD5": "81f23a3000252bb5bc1fe4301d8f43ff",
-            "path": "defaultconfigs/paxi/datapacks/Quark x FD Bark Cutting Compat.zip"
+            "path": "defaultconfigs/paxi/datapacks/Quark_x_FD_Bark_Cutting_Compat.zip"
           }
         },
         {
@@ -49823,14 +49823,14 @@
           }
         },
         {
-          "id": "dungeons-and-taverns-ancient-city-overhaul-1 [Forge].jar",
-          "name": "dungeons-and-taverns-ancient-city-overhaul-1 [Forge].jar",
+          "id": "dungeons-and-taverns-ancient-city-overhaul-1_[Forge].jar",
+          "name": "dungeons-and-taverns-ancient-city-overhaul-1_[Forge].jar",
           "type": "File",
           "artifact": {
             "size": 691038,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/mods/dungeons-and-taverns-ancient-city-overhaul-1%20[Forge].jar",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/mods/dungeons-and-taverns-ancient-city-overhaul-1_[Forge].jar",
             "MD5": "0588b263b143bd87a3fb5c39430f5eab",
-            "path": "mods/dungeons-and-taverns-ancient-city-overhaul-1 [Forge].jar"
+            "path": "mods/dungeons-and-taverns-ancient-city-overhaul-1_[Forge].jar"
           }
         },
         {
@@ -50384,17 +50384,6 @@
           }
         },
         {
-          "id": "Geophilic v3.4.1 f15-71.mod.jar",
-          "name": "Geophilic v3.4.1 f15-71.mod.jar",
-          "type": "File",
-          "artifact": {
-            "size": 753719,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/mods/Geophilic%20v3.4.1%20f15-71.mod.jar",
-            "MD5": "6218d2b409bb1058a6d385bbc414e1d3",
-            "path": "mods/Geophilic v3.4.1 f15-71.mod.jar"
-          }
-        },
-        {
           "id": "GeophilicReforged-v1.2.0.jar",
           "name": "GeophilicReforged-v1.2.0.jar",
           "type": "File",
@@ -50403,6 +50392,17 @@
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/mods/GeophilicReforged-v1.2.0.jar",
             "MD5": "c02eb4940e6c4716bbddcd49dc672527",
             "path": "mods/GeophilicReforged-v1.2.0.jar"
+          }
+        },
+        {
+          "id": "Geophilic_v3.4.1_f15-71.mod.jar",
+          "name": "Geophilic_v3.4.1_f15-71.mod.jar",
+          "type": "File",
+          "artifact": {
+            "size": 753719,
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/mods/Geophilic_v3.4.1_f15-71.mod.jar",
+            "MD5": "6218d2b409bb1058a6d385bbc414e1d3",
+            "path": "mods/Geophilic_v3.4.1_f15-71.mod.jar"
           }
         },
         {
@@ -50472,14 +50472,14 @@
           }
         },
         {
-          "id": "Hearths v1.0.3 f12-71.jar",
-          "name": "Hearths v1.0.3 f12-71.jar",
+          "id": "Hearths_v1.0.3_f12-71.jar",
+          "name": "Hearths_v1.0.3_f12-71.jar",
           "type": "File",
           "artifact": {
             "size": 161412,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/mods/Hearths%20v1.0.3%20f12-71.jar",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/mods/Hearths_v1.0.3_f12-71.jar",
             "MD5": "d85024ea3cbfbdcfbca8e3f01ebd56aa",
-            "path": "mods/Hearths v1.0.3 f12-71.jar"
+            "path": "mods/Hearths_v1.0.3_f12-71.jar"
           }
         },
         {
@@ -51440,14 +51440,14 @@
           }
         },
         {
-          "id": "Quest Kill Task-0.2.0+1.20.1-forge.jar",
-          "name": "Quest Kill Task-0.2.0+1.20.1-forge.jar",
+          "id": "Quest_Kill_Task-0.2.0+1.20.1-forge.jar",
+          "name": "Quest_Kill_Task-0.2.0+1.20.1-forge.jar",
           "type": "File",
           "artifact": {
             "size": 201963,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/mods/Quest%20Kill%20Task-0.2.0+1.20.1-forge.jar",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/mods/Quest_Kill_Task-0.2.0+1.20.1-forge.jar",
             "MD5": "022fb1cc74412f49636097b2325e76d0",
-            "path": "mods/Quest Kill Task-0.2.0+1.20.1-forge.jar"
+            "path": "mods/Quest_Kill_Task-0.2.0+1.20.1-forge.jar"
           }
         },
         {
@@ -51814,14 +51814,14 @@
           }
         },
         {
-          "id": "Stony Cliffs FML v1.1.2.jar",
-          "name": "Stony Cliffs FML v1.1.2.jar",
+          "id": "Stony_Cliffs_FML_v1.1.2.jar",
+          "name": "Stony_Cliffs_FML_v1.1.2.jar",
           "type": "File",
           "artifact": {
             "size": 43941,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/mods/Stony%20Cliffs%20FML%20v1.1.2.jar",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/mods/Stony_Cliffs_FML_v1.1.2.jar",
             "MD5": "71cd84ce2693aefd746e2544a8d7e8b1",
-            "path": "mods/Stony Cliffs FML v1.1.2.jar"
+            "path": "mods/Stony_Cliffs_FML_v1.1.2.jar"
           }
         },
         {
@@ -52430,25 +52430,25 @@
           }
         },
         {
-          "id": "Aether Regenerated v1.2.1.zip",
-          "name": "Aether Regenerated v1.2.1.zip",
+          "id": "Aether_Regenerated_v1.2.1.zip",
+          "name": "Aether_Regenerated_v1.2.1.zip",
           "type": "File",
           "artifact": {
             "size": 369238,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Aether%20Regenerated%20v1.2.1.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Aether_Regenerated_v1.2.1.zip",
             "MD5": "10829afadfbd6b322cdd497f01575aea",
-            "path": "resourcepacks/Aether Regenerated v1.2.1.zip"
+            "path": "resourcepacks/Aether_Regenerated_v1.2.1.zip"
           }
         },
         {
-          "id": "Armor Trims Compat 1.1.zip",
-          "name": "Armor Trims Compat 1.1.zip",
+          "id": "Armor_Trims_Compat_1.1.zip",
+          "name": "Armor_Trims_Compat_1.1.zip",
           "type": "File",
           "artifact": {
             "size": 37086,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Armor%20Trims%20Compat%201.1.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Armor_Trims_Compat_1.1.zip",
             "MD5": "3d357f1bafbe0d548a6007aced1465b5",
-            "path": "resourcepacks/Armor Trims Compat 1.1.zip"
+            "path": "resourcepacks/Armor_Trims_Compat_1.1.zip"
           }
         },
         {
@@ -52463,14 +52463,14 @@
           }
         },
         {
-          "id": "Beautiful Enchanted Books - MC 1.20.X - 6.0.0.zip",
-          "name": "Beautiful Enchanted Books - MC 1.20.X - 6.0.0.zip",
+          "id": "Beautiful_Enchanted_Books_-_MC_1.20.X_-_6.0.0.zip",
+          "name": "Beautiful_Enchanted_Books_-_MC_1.20.X_-_6.0.0.zip",
           "type": "File",
           "artifact": {
             "size": 632017,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Beautiful%20Enchanted%20Books%20-%20MC%201.20.X%20-%206.0.0.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Beautiful_Enchanted_Books_-_MC_1.20.X_-_6.0.0.zip",
             "MD5": "08c4201dbeec0b474490f317d588c6cc",
-            "path": "resourcepacks/Beautiful Enchanted Books - MC 1.20.X - 6.0.0.zip"
+            "path": "resourcepacks/Beautiful_Enchanted_Books_-_MC_1.20.X_-_6.0.0.zip"
           }
         },
         {
@@ -52485,14 +52485,14 @@
           }
         },
         {
-          "id": "BoP x FD Bark Cutting Compat.zip",
-          "name": "BoP x FD Bark Cutting Compat.zip",
+          "id": "BoP_x_FD_Bark_Cutting_Compat.zip",
+          "name": "BoP_x_FD_Bark_Cutting_Compat.zip",
           "type": "File",
           "artifact": {
             "size": 8520,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/BoP%20x%20FD%20Bark%20Cutting%20Compat.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/BoP_x_FD_Bark_Cutting_Compat.zip",
             "MD5": "84fcc868d12e81e4781f5fe3e17494fe",
-            "path": "resourcepacks/BoP x FD Bark Cutting Compat.zip"
+            "path": "resourcepacks/BoP_x_FD_Bark_Cutting_Compat.zip"
           }
         },
         {
@@ -52507,14 +52507,14 @@
           }
         },
         {
-          "id": "Created Simple Storage 1.3.zip",
-          "name": "Created Simple Storage 1.3.zip",
+          "id": "Created_Simple_Storage_1.3.zip",
+          "name": "Created_Simple_Storage_1.3.zip",
           "type": "File",
           "artifact": {
             "size": 162671,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Created%20Simple%20Storage%201.3.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Created_Simple_Storage_1.3.zip",
             "MD5": "7c78d0e8c592e0f642ac8c490eebf717",
-            "path": "resourcepacks/Created Simple Storage 1.3.zip"
+            "path": "resourcepacks/Created_Simple_Storage_1.3.zip"
           }
         },
         {
@@ -52529,14 +52529,14 @@
           }
         },
         {
-          "id": "Enchantment Descriptions Compat 1.1.zip",
-          "name": "Enchantment Descriptions Compat 1.1.zip",
+          "id": "Enchantment_Descriptions_Compat_1.1.zip",
+          "name": "Enchantment_Descriptions_Compat_1.1.zip",
           "type": "File",
           "artifact": {
             "size": 104444,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Enchantment%20Descriptions%20Compat%201.1.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Enchantment_Descriptions_Compat_1.1.zip",
             "MD5": "fa09090958642761b060171104cd3670",
-            "path": "resourcepacks/Enchantment Descriptions Compat 1.1.zip"
+            "path": "resourcepacks/Enchantment_Descriptions_Compat_1.1.zip"
           }
         },
         {
@@ -52551,14 +52551,14 @@
           }
         },
         {
-          "id": "Icon Xaero's 1.2 HF.zip",
-          "name": "Icon Xaero's 1.2 HF.zip",
+          "id": "Icon_Xaero's_1.2_HF.zip",
+          "name": "Icon_Xaero's_1.2_HF.zip",
           "type": "File",
           "artifact": {
             "size": 20689432,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Icon%20Xaero's%201.2%20HF.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Icon_Xaero's_1.2_HF.zip",
             "MD5": "2d71a20c6526d040985e435955495caf",
-            "path": "resourcepacks/Icon Xaero's 1.2 HF.zip"
+            "path": "resourcepacks/Icon_Xaero's_1.2_HF.zip"
           }
         },
         {
@@ -52573,25 +52573,25 @@
           }
         },
         {
-          "id": "Mandala's GUI - Dark Mode Compat 0.3.zip",
-          "name": "Mandala's GUI - Dark Mode Compat 0.3.zip",
+          "id": "Mandala's_GUI_-_Dark_Mode_Compat_0.3.zip",
+          "name": "Mandala's_GUI_-_Dark_Mode_Compat_0.3.zip",
           "type": "File",
           "artifact": {
             "size": 545914,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Mandala's%20GUI%20-%20Dark%20Mode%20Compat%200.3.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Mandala's_GUI_-_Dark_Mode_Compat_0.3.zip",
             "MD5": "ad800c25fbd082cd63baca12beb02539",
-            "path": "resourcepacks/Mandala's GUI - Dark Mode Compat 0.3.zip"
+            "path": "resourcepacks/Mandala's_GUI_-_Dark_Mode_Compat_0.3.zip"
           }
         },
         {
-          "id": "Mandala's GUI Vanilla Crosshair.zip",
-          "name": "Mandala's GUI Vanilla Crosshair.zip",
+          "id": "Mandala's_GUI_Vanilla_Crosshair.zip",
+          "name": "Mandala's_GUI_Vanilla_Crosshair.zip",
           "type": "File",
           "artifact": {
             "size": 8161,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Mandala's%20GUI%20Vanilla%20Crosshair.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Mandala's_GUI_Vanilla_Crosshair.zip",
             "MD5": "4ad5781adb37c6473a8e8be448c5853e",
-            "path": "resourcepacks/Mandala's GUI Vanilla Crosshair.zip"
+            "path": "resourcepacks/Mandala's_GUI_Vanilla_Crosshair.zip"
           }
         },
         {
@@ -52639,25 +52639,25 @@
           }
         },
         {
-          "id": "Quark Programmer Art.zip",
-          "name": "Quark Programmer Art.zip",
+          "id": "Quark_Programmer_Art.zip",
+          "name": "Quark_Programmer_Art.zip",
           "type": "File",
           "artifact": {
             "size": 266434,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Quark%20Programmer%20Art.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Quark_Programmer_Art.zip",
             "MD5": "372d5ab8040ea8fbf0265bf9163ff206",
-            "path": "resourcepacks/Quark Programmer Art.zip"
+            "path": "resourcepacks/Quark_Programmer_Art.zip"
           }
         },
         {
-          "id": "Quark x FD Bark Cutting Compat.zip",
-          "name": "Quark x FD Bark Cutting Compat.zip",
+          "id": "Quark_x_FD_Bark_Cutting_Compat.zip",
+          "name": "Quark_x_FD_Bark_Cutting_Compat.zip",
           "type": "File",
           "artifact": {
             "size": 3133,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Quark%20x%20FD%20Bark%20Cutting%20Compat.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Quark_x_FD_Bark_Cutting_Compat.zip",
             "MD5": "81f23a3000252bb5bc1fe4301d8f43ff",
-            "path": "resourcepacks/Quark x FD Bark Cutting Compat.zip"
+            "path": "resourcepacks/Quark_x_FD_Bark_Cutting_Compat.zip"
           }
         },
         {
@@ -52760,14 +52760,14 @@
           }
         },
         {
-          "id": "SE Vanilla Consistency 1.20.1.zip",
-          "name": "SE Vanilla Consistency 1.20.1.zip",
+          "id": "SE_Vanilla_Consistency_1.20.1.zip",
+          "name": "SE_Vanilla_Consistency_1.20.1.zip",
           "type": "File",
           "artifact": {
             "size": 85743,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/SE%20Vanilla%20Consistency%201.20.1.zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/SE_Vanilla_Consistency_1.20.1.zip",
             "MD5": "1854be09b2efc0f1a592e2c9b7c28f9c",
-            "path": "resourcepacks/SE Vanilla Consistency 1.20.1.zip"
+            "path": "resourcepacks/SE_Vanilla_Consistency_1.20.1.zip"
           }
         },
         {
@@ -52782,14 +52782,14 @@
           }
         },
         {
-          "id": "Stay Clear [1.20].zip",
-          "name": "Stay Clear [1.20].zip",
+          "id": "Stay_Clear_[1.20].zip",
+          "name": "Stay_Clear_[1.20].zip",
           "type": "File",
           "artifact": {
             "size": 23047,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Stay%20Clear%20[1.20].zip",
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/resourcepacks/Stay_Clear_[1.20].zip",
             "MD5": "d17ffb46c82a08065fb76065d780ce2c",
-            "path": "resourcepacks/Stay Clear [1.20].zip"
+            "path": "resourcepacks/Stay_Clear_[1.20].zip"
           }
         },
         {
@@ -52837,17 +52837,6 @@
           }
         },
         {
-          "id": "ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.txt",
-          "name": "ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.txt",
-          "type": "File",
-          "artifact": {
-            "size": 362,
-            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.4%20+%20EuphoriaPatches_1.5.2.txt",
-            "MD5": "5151373ef1d576db1e81ccceaf19ca6a",
-            "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.txt"
-          }
-        },
-        {
           "id": "ComplementaryReimagined_r5.4.zip",
           "name": "ComplementaryReimagined_r5.4.zip",
           "type": "File",
@@ -52856,6 +52845,17 @@
             "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.4.zip",
             "MD5": "1a67030845ad123f56a3b5f6d8fb9b7c",
             "path": "shaderpacks/ComplementaryReimagined_r5.4.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.4_+_EuphoriaPatches_1.5.2.txt",
+          "name": "ComplementaryReimagined_r5.4_+_EuphoriaPatches_1.5.2.txt",
+          "type": "File",
+          "artifact": {
+            "size": 362,
+            "url": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/servers/Ermyu_BMC4_Server-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.4_+_EuphoriaPatches_1.5.2.txt",
+            "MD5": "5151373ef1d576db1e81ccceaf19ca6a",
+            "path": "shaderpacks/ComplementaryReimagined_r5.4_+_EuphoriaPatches_1.5.2.txt"
           }
         },
         {
