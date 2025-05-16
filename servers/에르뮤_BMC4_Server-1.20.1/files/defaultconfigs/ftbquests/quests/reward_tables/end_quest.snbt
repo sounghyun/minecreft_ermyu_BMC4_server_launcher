@@ -1,0 +1,18 @@
+{
+	id: "60406D60038871E3"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 16
+			item: "minecraft:spectral_arrow"
+			title: "{bmc4.end_quest.rewards0.title}"
+		}
+		{
+			count: 2
+			item: "minecraft:red_bed"
+			title: "{bmc4.end_quest.rewards1.title}"
+		}
+	]
+	title: "{bmc4.end_quest.title}"
+}

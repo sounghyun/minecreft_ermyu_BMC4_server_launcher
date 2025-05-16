@@ -1,0 +1,510 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "overworld"
+	group: "5BBB507BE497896B"
+	icon: "minecraft:grass_block"
+	id: "1D4E5CDD59FFB7A0"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "268A05DFD4D5427A"
+			rewards: [
+				{
+					count: 12
+					id: "14F327BA69B975BD"
+					item: "blue_skies:turquoise_stonebrick"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "2D05266B3F98B211"
+					item: "blue_skies:lunar_stonebrick"
+					type: "item"
+				}
+			]
+			subtitle: "{bmc4.overworld.quests0.subtitle}"
+			tasks: [{
+				id: "08CA723FD16E3030"
+				item: "blue_skies:blue_journal"
+				title: "{bmc4.overworld.quests0.tasks0.title}"
+				type: "item"
+			}]
+			title: "{bmc4.overworld.quests0.title}"
+			x: 12.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "6A12B1FE7B703F9D"
+			rewards: [{
+				id: "1C1C43B99CC8E4E3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "{bmc4.overworld.quests1.subtitle}"
+			tasks: [{
+				id: "44740305C2A8DC52"
+				item: "backpacked:backpack"
+				title: "{bmc4.overworld.quests1.tasks0.title}"
+				type: "item"
+			}]
+			title: "{bmc4.overworld.quests1.title}"
+			x: 14.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "3DAB175493B08089"
+			rewards: [{
+				id: "29B13597289089F3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "{bmc4.overworld.quests2.subtitle}"
+			tasks: [{
+				entity: "conjurer_illager:conjurer"
+				icon: {
+					Count: 1
+					id: "conjurer_illager:conjurer_hat"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "10911C878598A90F"
+				title: "{bmc4.overworld.quests2.tasks0.title}"
+				type: "kill"
+				value: 1L
+			}]
+			title: "{bmc4.overworld.quests2.title}"
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "26EA75D177BC496B"
+			rewards: [
+				{
+					id: "2F1EFCBC72F69624"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "6DA1A2B30558A913"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "{bmc4.overworld.quests3.subtitle}"
+			tasks: [{
+				advancement: "minecraft:adventure/hero_of_the_village"
+				criterion: ""
+				id: "7362BF4629FAD929"
+				title: "{bmc4.overworld.quests3.tasks0.title}"
+				type: "advancement"
+			}]
+			title: "{bmc4.overworld.quests3.title}"
+			x: 15.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "3EA4CB4D9C90B767"
+			rewards: [{
+				id: "0EF5197E4E7ED8F3"
+				item: "conjurer_illager:throwable_ball"
+				type: "item"
+			}]
+			subtitle: "{bmc4.overworld.quests4.subtitle}"
+			tasks: [{
+				entity: "minecraft:illusioner"
+				icon: "illagerinvasion:illusionary_dust"
+				id: "39A27C60C2775BD5"
+				title: "{bmc4.overworld.quests4.tasks0.title}"
+				type: "kill"
+				value: 1L
+			}]
+			x: 11.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "6280E25813EA2805"
+			rewards: [{
+				count: 3
+				id: "020B040C4D079A06"
+				item: "minecraft:emerald"
+				random_bonus: 2
+				type: "item"
+			}]
+			subtitle: "{bmc4.overworld.quests5.subtitle}"
+			tasks: [{
+				id: "3594A94ECDBC14FB"
+				item: "villagersplus:occultist_table"
+				type: "item"
+			}]
+			title: "{bmc4.overworld.quests5.title}"
+			x: 15.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "32C4134E67E71063"
+			rewards: [{
+				count: 3
+				id: "7DD343C14E49B4ED"
+				item: "minecraft:emerald"
+				random_bonus: 2
+				type: "item"
+			}]
+			subtitle: "{bmc4.overworld.quests6.subtitle}"
+			tasks: [{
+				id: "72527896BB77CECD"
+				item: "villagersplus:alchemist_table"
+				type: "item"
+			}]
+			title: "{bmc4.overworld.quests6.title}"
+			x: 13.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			icon: "cataclysm:mech_eye"
+			id: "1A118FBA223B14F9"
+			rewards: [{
+				id: "67D6BA05D7B17542"
+				item: "cataclysm:ignitium_ingot"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "{bmc4.overworld.quests7.subtitle}"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: "cataclysm:the_harbinger_spawn_egg"
+				id: "6C6A449FB595E875"
+				title: "{bmc4.overworld.quests7.tasks0.title}"
+				type: "kill"
+				value: 1L
+			}]
+			title: "{bmc4.overworld.quests7.title}"
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			id: "2574E7CF699D5B45"
+			rewards: [{
+				count: 2
+				id: "0B64280DCDE3B078"
+				item: "minecraft:oak_log"
+				random_bonus: 2
+				type: "item"
+			}]
+			size: 1.5d
+			subtitle: "{bmc4.overworld.quests8.subtitle}"
+			tasks: [{
+				id: "0470194500CBE26C"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "{bmc4.overworld.quests8.tasks0.title}"
+				type: "item"
+			}]
+			title: "{bmc4.overworld.quests8.title}"
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			icon: "cataclysm:abyss_eye"
+			id: "0353FDDEA821D925"
+			rewards: [{
+				id: "3118E1F5F18B73C8"
+				item: "cataclysm:ignitium_ingot"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "{bmc4.overworld.quests9.subtitle}"
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: "cataclysm:the_baby_leviathan_bucket"
+				id: "0A7A8D8140025392"
+				title: "{bmc4.overworld.quests9.tasks0.title}"
+				type: "kill"
+				value: 1L
+			}]
+			title: "{bmc4.overworld.quests9.title}"
+			x: 11.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "233BA969DA5AA027"
+			rewards: [{
+				id: "4855400530BD87E7"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			subtitle: "{bmc4.overworld.quests10.subtitle}"
+			tasks: [{
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				icon: "mowziesmobs:wrought_helmet"
+				id: "3333928391216A43"
+				title: "{bmc4.overworld.quests10.tasks0.title}"
+				type: "kill"
+				value: 1L
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "5CEF21E35885E955"
+			rewards: [{
+				id: "72B831667F31BD94"
+				item: "friendsandfoes:totem_of_freezing"
+				type: "item"
+			}]
+			subtitle: "{bmc4.overworld.quests11.subtitle}"
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				icon: {
+					Count: 1
+					id: "mowziesmobs:ice_crystal"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "648F394BA53947B6"
+				title: "{bmc4.overworld.quests11.tasks0.title}"
+				type: "kill"
+				value: 1L
+			}]
+			x: 15.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "0226F89EEC57C5EC"
+			rewards: [{
+				id: "78658FFD3CABA528"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:unbreaking"
+							lvl: 3s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "{bmc4.overworld.quests12.subtitle}"
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				icon: "mowziesmobs:grant_suns_blessing"
+				id: "2498701E7715A09B"
+				title: "{bmc4.overworld.quests12.tasks0.title}"
+				type: "kill"
+				value: 1L
+			}]
+			x: 15.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "1FA308C8C319403E"
+			rewards: [{
+				id: "0C267DF448BB3193"
+				item: {
+					Count: 1
+					id: "minecraft:splash_potion"
+					tag: {
+						Potion: "goblintraders:luck"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "{bmc4.overworld.quests13.subtitle}"
+			tasks: [{
+				id: "601A59E76485A542"
+				item: "cataclysm:necklace_of_the_desert"
+				type: "item"
+			}]
+			title: "{bmc4.overworld.quests13.title}"
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1FA308C8C319403E"]
+			id: "3103B2CFCFDB2173"
+			rewards: [
+				{
+					id: "41A7430DB03A2ABB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					exclude_from_claim_all: true
+					id: "52CF5725728C0483"
+					table_id: 327386274853989853L
+					type: "random"
+				}
+			]
+			subtitle: "{bmc4.overworld.quests14.subtitle}"
+			tasks: [{
+				advancement: "cataclysm:kill_remnant"
+				criterion: ""
+				id: "4B0CA66749CB35C7"
+				title: "{bmc4.overworld.quests14.tasks0.title}"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "49E6DC9CF4CAAAD9"
+			rewards: [{
+				count: 2
+				id: "7E0D3DD390A54784"
+				item: "spawnersplus:spawner_fragment"
+				random_bonus: 6
+				type: "item"
+			}]
+			subtitle: "{bmc4.overworld.quests15.subtitle}"
+			tasks: [{
+				id: "23A051B83028FB3D"
+				item: "spawnersplus:spawner_fragment"
+				type: "item"
+			}]
+			title: "{bmc4.overworld.quests15.title}"
+			x: 14.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["49E6DC9CF4CAAAD9"]
+			id: "2B5FCD2A3579C941"
+			rewards: [{
+				id: "5A1688603A12AE38"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:looting"
+							lvl: 2s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "{bmc4.overworld.quests16.subtitle}"
+			tasks: [{
+				id: "2744C691D23BEEC8"
+				item: "spawnersplus:inactive_spawner"
+				type: "item"
+			}]
+			title: "{bmc4.overworld.quests16.title}"
+			x: 14.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			description: [
+				"{bmc4.overworld.quests17.description0}"
+				""
+				"{bmc4.overworld.quests17.description1}"
+				""
+				"{bmc4.overworld.quests17.description2}"
+				""
+				"{bmc4.overworld.quests17.description3}"
+				""
+				"{bmc4.overworld.quests17.description4}"
+				""
+				"{bmc4.overworld.quests17.description5}"
+				""
+				"{bmc4.overworld.quests17.description6}"
+				""
+				"{bmc4.overworld.quests17.description7}"
+				""
+				"{bmc4.overworld.quests17.description8}"
+				""
+				"{bmc4.overworld.quests17.description9}"
+				""
+				"{bmc4.overworld.quests17.description10}"
+			]
+			id: "43434D70D90B74D6"
+			rewards: [{
+				id: "7F8BEDE9DE4637CC"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			subtitle: "{bmc4.overworld.quests17.subtitle}"
+			tasks: [{
+				id: "26178B6403EC061F"
+				item: {
+					Count: 1
+					id: "dragonmounts:dragon_egg"
+					tag: {
+						BlockEntityTag: {
+							Breed: "dragonmounts:end"
+							id: "dragonmounts:dragon_egg"
+						}
+					}
+				}
+				type: "item"
+			}]
+			title: "{bmc4.overworld.quests17.title}"
+			x: 13.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["43434D70D90B74D6"]
+			description: [
+				"{bmc4.overworld.quests18.description0}"
+				""
+				"{bmc4.overworld.quests18.description1}"
+				""
+				"{bmc4.overworld.quests18.description2}"
+			]
+			id: "0826DFD7A8EB1AB6"
+			rewards: [{
+				id: "76953015C3DE42B5"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			subtitle: "{bmc4.overworld.quests18.subtitle}"
+			tasks: [{
+				id: "1D0E33EF18CED81F"
+				item: "minecraft:saddle"
+				type: "item"
+			}]
+			title: "{bmc4.overworld.quests18.title}"
+			x: 13.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "6401C96CA77FEE8E"
+			subtitle: "{bmc4.overworld.quests19.subtitle}"
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				icon: "cataclysm:cursed_eye"
+				id: "7F2A3471BB0F60A2"
+				title: "{bmc4.overworld.quests19.tasks0.title}"
+				type: "kill"
+				value: 1L
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+	]
+	title: "{bmc4.overworld.title}"
+}

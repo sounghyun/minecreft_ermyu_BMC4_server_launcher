@@ -1,0 +1,255 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome_to_bmc_forge_1192"
+	group: ""
+	icon: "minecraft:book"
+	id: "3E34934F09B08365"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"{bmc4.welcome_to_bmc_forge_1192.quests0.description0}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests0.description1}"
+			]
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					Enchantments: [{
+						id: "aqua_affinity"
+						lvl: 1
+					}]
+				}
+			}
+			id: "6A52090D6BC064D7"
+			rewards: [{
+				count: 3
+				id: "26B707F49F695DEA"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			size: 2.0d
+			subtitle: "{bmc4.welcome_to_bmc_forge_1192.quests0.subtitle}"
+			tasks: [{
+				id: "1B0800437C68C43A"
+				title: "{bmc4.welcome_to_bmc_forge_1192.quests0.tasks0.title}"
+				type: "checkmark"
+			}]
+			title: "{bmc4.welcome_to_bmc_forge_1192.quests0.title}"
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6A52090D6BC064D7"]
+			dependency_requirement: "one_completed"
+			description: [
+				"{bmc4.welcome_to_bmc_forge_1192.quests1.description0}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests1.description1}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests1.description2}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests1.description3}"
+			]
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "ftbteams:textures/teams.png"
+				}
+			}
+			id: "2958CA7FA6FD3E4F"
+			invisible_until_tasks: 1
+			rewards: [{
+				id: "474C5312DB57B8B5"
+				item: "minecraft:lantern"
+				type: "item"
+			}]
+			subtitle: "{bmc4.welcome_to_bmc_forge_1192.quests1.subtitle}"
+			tasks: [
+				{
+					id: "0DD3C1416FC34FA1"
+					title: "{bmc4.welcome_to_bmc_forge_1192.quests1.tasks0.title}"
+					type: "checkmark"
+				}
+				{
+					id: "1D486C4B0E66490C"
+					item: "minecraft:bread"
+					type: "item"
+				}
+			]
+			title: "{bmc4.welcome_to_bmc_forge_1192.quests1.title}"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A52090D6BC064D7"]
+			description: [
+				"{bmc4.welcome_to_bmc_forge_1192.quests2.description0}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests2.description1}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests2.description2}"
+			]
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "ftbquests:textures/item/book.png"
+				}
+			}
+			id: "175099CF5696829E"
+			invisible_until_tasks: 1
+			rewards: [{
+				count: 3
+				id: "34B145F40A6C1F3B"
+				item: "minecraft:torch"
+				type: "item"
+			}]
+			subtitle: "{bmc4.welcome_to_bmc_forge_1192.quests2.subtitle}"
+			tasks: [
+				{
+					id: "21428FE253D34D4E"
+					title: "{bmc4.welcome_to_bmc_forge_1192.quests2.tasks0.title}"
+					type: "checkmark"
+				}
+				{
+					disable_toast: true
+					id: "08EDA62F0B406C49"
+					item: "minecraft:bread"
+					type: "item"
+				}
+			]
+			title: "{bmc4.welcome_to_bmc_forge_1192.quests2.title}"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A52090D6BC064D7"]
+			description: [
+				"{bmc4.welcome_to_bmc_forge_1192.quests3.description0}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests3.description1}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests3.description2}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests3.description3}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests3.description4}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests3.description5}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests3.description6}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests3.description7}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests3.description8}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests3.description9}"
+			]
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "ftblibrary:textures/icons/player.png"
+				}
+			}
+			id: "2165E80C52C79992"
+			invisible_until_tasks: 1
+			rewards: [{
+				id: "51B0A356F9FE087C"
+				item: "biomesoplenty:rainbow_birch_sapling"
+				type: "item"
+			}]
+			subtitle: "{bmc4.welcome_to_bmc_forge_1192.quests3.subtitle}"
+			tasks: [
+				{
+					id: "6A64112F92690241"
+					title: "{bmc4.welcome_to_bmc_forge_1192.quests3.tasks0.title}"
+					type: "checkmark"
+				}
+				{
+					disable_toast: true
+					id: "2B23CADA52D45FA0"
+					item: "minecraft:bread"
+					type: "item"
+				}
+			]
+			title: "{bmc4.welcome_to_bmc_forge_1192.quests3.title}"
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2958CA7FA6FD3E4F"]
+			description: [
+				"{bmc4.welcome_to_bmc_forge_1192.quests4.description0}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests4.description1}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests4.description2}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests4.description3}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests4.description4}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests4.description5}"
+			]
+			hide_until_deps_visible: true
+			icon: "minecraft:spyglass"
+			id: "139DAA6E8CF4267A"
+			rewards: [{
+				id: "1AE5746200C26691"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			subtitle: "{bmc4.welcome_to_bmc_forge_1192.quests4.subtitle}"
+			tasks: [{
+				id: "74C85348A8B837EB"
+				title: "{bmc4.welcome_to_bmc_forge_1192.quests4.tasks0.title}"
+				type: "checkmark"
+			}]
+			title: "{bmc4.welcome_to_bmc_forge_1192.quests4.title}"
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["139DAA6E8CF4267A"]
+			description: [
+				"{bmc4.welcome_to_bmc_forge_1192.quests5.description0}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests5.description1}"
+				""
+				"{bmc4.welcome_to_bmc_forge_1192.quests5.description2}"
+			]
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "ftblibrary:textures/icons/check.png"
+				}
+			}
+			id: "6A4CB4700F0082C6"
+			rewards: [{
+				id: "53680199E84036F9"
+				item: "alexsmobs:animal_dictionary"
+				type: "item"
+			}]
+			subtitle: "{bmc4.welcome_to_bmc_forge_1192.quests5.subtitle}"
+			tasks: [{
+				id: "3B2CC7DEE30E3AB8"
+				title: "{bmc4.welcome_to_bmc_forge_1192.quests5.tasks0.title}"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+	]
+	title: "{bmc4.welcome_to_bmc_forge_1192.title}"
+}

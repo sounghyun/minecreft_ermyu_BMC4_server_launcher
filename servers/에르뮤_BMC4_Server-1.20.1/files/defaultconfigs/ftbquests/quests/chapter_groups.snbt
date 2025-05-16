@@ -1,0 +1,12 @@
+{
+	chapter_groups: [
+		{
+			id: "5BBB507BE497896B"
+			title: "{bmc4.chapter_groups.chapter_groups0.title}"
+		}
+		{
+			id: "5EC606153AA8CA77"
+			title: "{bmc4.chapter_groups.chapter_groups1.title}"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/minecreft_batter_BMC4_Server/server_data/minecreft_BMC4_ermyu/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "에르뮤 심심 크래프트",
+    "description": "F컵 에르뮤의 심심 욕구를 충족 시키기 위한 서버",
+    "icon": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/ermyu_data/icon/ermyu_icon.ico",
+    "address": "mine-silaren.p-e.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.4.0"
+  },
+  "untrackedFiles": []
+}
