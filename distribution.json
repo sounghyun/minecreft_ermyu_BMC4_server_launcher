@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "Ermyu_BMC4_Server-1.20.1",
-      "name": "������ �ɽ� ũ����Ʈ",
-      "description": "F�� �������� �ɽ� �屸�� ���� ��Ű�� ���� ����",
+      "name": "에르뮤 심심 크래프트",
+      "description": "F컵 에르뮤의 심심 욕구를 충족 시키기 위한 서버",
       "icon": "https://sounghyun.github.io/minecreft_ermyu_BMC4_server_launcher/ermyu_data/icon/ermyu_icon.ico",
       "version": "1.0.0",
       "address": "mine-silaren.p-e.kr",
